@@ -1,0 +1,9 @@
+[
+  {
+    "id": "comment1",
+    "taskId": "task1",
+    "userId": "user123",
+    "content": "Comentário sobre a Tarefa 1",
+    "date": "2024-12-10T15:00:00"
+  }
+]

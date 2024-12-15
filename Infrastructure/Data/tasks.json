@@ -1,0 +1,20 @@
+[
+  {
+    "id": "task1",
+    "title": "Tarefa 1",
+    "description": "Descrição da tarefa 1",
+    "dueDate": "2024-12-31T23:59:59",
+    "status": "Pendente",
+    "priority": "high",
+    "projectId": "1"
+  },
+  {
+    "id": "task2",
+    "title": "Tarefa 2",
+    "description": "Descrição da tarefa 2",
+    "dueDate": "2024-12-20T23:59:59",
+    "status": "EmAndamento",
+    "priority": "medium",
+    "projectId": "1"
+  }
+]

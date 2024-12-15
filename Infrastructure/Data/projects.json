@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Projeto A",
+    "userId": "user123",
+    "tasks": [
+      "task1",
+      "task2"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Projeto B",
+    "userId": "user123",
+    "tasks": [
+      "task3"
+    ]
+  }
+]
+
