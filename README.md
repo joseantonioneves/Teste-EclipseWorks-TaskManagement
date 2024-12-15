@@ -1,9 +1,5 @@
-﻿Aqui está um modelo de `README.md` para o seu projeto, conforme solicitado, sem usar a terceira pessoa do singular:
-
----
-
 # TaskManager
-
+---
 Este projeto é um protótipo para funcionalidades de gerenciar tarefas dentro de um sistema de gerenciamento de projetos. Ele permite criar, editar e gerenciar tarefas de forma simples e eficiente. O foco do sistema é fornecer uma interface robusta para a criação e atualização de tarefas com base em projetos específicos.
 
 ## Funcionalidades
