@@ -13,7 +13,7 @@ Este projeto é um protótipo para funcionalidades de gerenciar tarefas dentro d
 
 - **.NET 8.0**: Framework utilizado para o desenvolvimento da API.
 - **Docker**: Para contêinerizar a aplicação e facilitar o deploy.
-- **PostgreSQL**: Sistema de gerenciamento de banco de dados utilizado.
+- **arquivos json**: Repositório onde os dados são persistidos.
 - **Swagger**: Ferramenta para testar a API de forma visual e intuitiva.
 
 ## Estrutura do Projeto
